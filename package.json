@@ -12,5 +12,12 @@
     "react-dom": "15.6.2",
     "react-scripts": "1.0.13"
   },
+  "devDependencies": {
+    "eslint": "4.7.2",
+    "eslint-config-xo-react": "0.13.0",
+    "eslint-config-xo-space": "0.16.0",
+    "eslint-plugin-react": "7.4.0",
+    "eslint-plugin-unicorn": "2.1.2"
+  },
   "private": true
 }

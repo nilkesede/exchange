@@ -1,5 +1,10 @@
-import React from 'react';
+import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 
-const App = () => 'exchange';
+class App extends Component {
+  render() {
+    return 'exchange';
+  }
+}
+
 ReactDOM.render(<App/>, document.getElementById('root'));
